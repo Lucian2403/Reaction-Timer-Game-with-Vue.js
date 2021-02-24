@@ -1,4 +1,13 @@
-# reaction-timer
+# Reaction-Timer-Game-with-Vue.js
+A Vue 3 entertaining and simple reaction timer game using:
+- props
+- events
+- data
+- methods
+- custom Events
+- mounted cycle
+- components
+
 
 ## Project setup
 ```
